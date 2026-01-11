@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 👋 I'm Dev Jadaun
 
-<!--
-**devjadaun/devjadaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate  
+💻 Aspiring Software Developer  
+🐍 Python & Data Structures Learner  
+🌱 Exploring Frontend Development & Open Source  
+🚀 Building today, scaling for tomorrow  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently Learning
+- Python (core concepts & problem solving)
+- Data Structures & Algorithms
+- Git & GitHub (version control & collaboration)
+- Frontend basics (HTML, CSS, JavaScript)
+
+---
+
+### 🛠️ Skills & Tools
+- Languages: Python, C (basic)
+- Tools: Git, GitHub, VS Code
+- Interests: Problem Solving, Open Source, Tech Communities
+
+---
+
+### 🎯 Goals
+- Build strong foundations in DSA
+- Create meaningful real-world projects
+- Actively contribute to open-source
+- Secure my first software internship
+
+---
+
+### 📫 Let’s Connect
+- 💬 Open to learning, collaboration, and guidance
