@@ -2,34 +2,34 @@
 
 🎓 Computer Science Undergraduate  
 💻 Aspiring Software Developer  
-🐍 Python & Data Structures Learner  
+☕ Currently learning Java & Data Structures  
 🌱 Exploring Frontend Development & Open Source  
 🚀 Building today, scaling for tomorrow  
 
 ---
 
-### 📌 Currently Learning
-- Python (core concepts & problem solving)
-- Data Structures & Algorithms
-- Git & GitHub (version control & collaboration)
-- Frontend basics (HTML, CSS, JavaScript)
+### 📌 Tech Stack
+- Languages: Java, Python (basic), C (basic)
+- Core Skills: Data Structures & Algorithms
+- Tools: Git, GitHub, VS Code
 
 ---
 
-### 🛠️ Skills & Tools
-- Languages: Python, C (basic)
-- Tools: Git, GitHub, VS Code
-- Interests: Problem Solving, Open Source, Tech Communities
+### 📚 Currently Working On
+- Strengthening Java fundamentals
+- Practicing DSA problems
+- Building small Java-based projects
+- Learning Git & GitHub collaboration
 
 ---
 
 ### 🎯 Goals
-- Build strong foundations in DSA
-- Create meaningful real-world projects
-- Actively contribute to open-source
+- Build strong problem-solving skills
+- Contribute to open-source projects
+- Create impactful real-world applications
 - Secure my first software internship
 
 ---
 
 ### 📫 Let’s Connect
-- 💬 Open to learning, collaboration, and guidance
+- Open to collaboration and learning
