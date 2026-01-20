@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Tech Stack
-- Languages: Java, Python (basic), C (basic)
+- Languages: Java, Python (basic), C
 - Core Skills: Data Structures & Algorithms
 - Tools: Git, GitHub, VS Code
 
