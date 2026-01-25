@@ -1,35 +1,76 @@
-## Hi 👋 I'm Dev Jadaun
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Dev%20Jadaun&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 Computer Science Undergraduate  
-💻 Aspiring Software Developer  
-☕ Currently learning Java & Data Structures  
-🌱 Exploring Frontend Development & Open Source  
-🚀 Building today, scaling for tomorrow  
+<h2 align="center">👋 Hi, I'm Dev Jadaun</h2>
 
----
-
-### 📌 Tech Stack
-- Languages: Java, Python (basic), C
-- Core Skills: Data Structures & Algorithms
-- Tools: Git, GitHub, VS Code
-
----
-
-### 📚 Currently Working On
-- Strengthening Java fundamentals
-- Practicing DSA problems
-- Building small Java-based projects
-- Learning Git & GitHub collaboration
+<p align="center">
+🎓 Computer Science Undergraduate <br>
+💻 Aspiring Software Developer <br>
+☕ Learning Java & Data Structures <br>
+🌱 Exploring Frontend Development & Open Source <br>
+🚀 Building today, scaling for tomorrow
+</p>
 
 ---
 
-### 🎯 Goals
-- Build strong problem-solving skills
-- Contribute to open-source projects
-- Create impactful real-world applications
-- Secure my first software internship
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode">
+</p>
 
 ---
 
-### 📫 Let’s Connect
-- Open to collaboration and learning
+## 📚 Currently Working On
+
+- 🚀 Strengthening Java Fundamentals  
+- 🧠 Practicing DSA Problems  
+- 🛠 Building Java-Based Projects  
+- 🔧 Learning Git & GitHub Collaboration  
+
+---
+
+## 🎯 Goals
+
+- ✅ Master Problem Solving  
+- 🌍 Contribute to Open Source  
+- 📦 Build Real-World Applications  
+- 💼 Secure Software Internship  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devjadaun&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devjadaun&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjadaun&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="https://github.com/devjadaun">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+⭐ _If you like my work, consider following me and starring my repositories!_
