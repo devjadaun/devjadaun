@@ -73,22 +73,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devjadaun&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devjadaun/devjadaun/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
