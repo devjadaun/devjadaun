@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Dev%20Jadaun&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Aspiring+Software+Developer;Java+%26+DSA+Learner;Open+Source+Enthusiast" />
+</p>
+
 <h2 align="center">👋 Hi, I'm Dev Jadaun</h2>
 
 <p align="center">
@@ -11,6 +16,11 @@
 ☕ Learning Java & Data Structures <br>
 🌱 Exploring Frontend Development & Open Source <br>
 🚀 Building today, scaling for tomorrow
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devjadaun&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -59,6 +69,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjadaun&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devjadaun&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjadaun/devjadaun/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
