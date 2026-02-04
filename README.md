@@ -66,6 +66,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🧠 Top Languages
 
 <p align="center">
