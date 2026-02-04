@@ -60,8 +60,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devjadaun&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=devjadaun&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devjadaun&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=devjadaun&theme=dark" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjadaun&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjadaun&layout=compact&theme=dark" />
 </p>
 
 ---
