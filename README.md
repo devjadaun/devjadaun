@@ -143,6 +143,14 @@ B.Tech Computer Science Student • Java Developer • DSA Learner • Web Devel
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjadaun/devjadaun/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## ⚡ GitHub Activity
 
 <p align="center">
