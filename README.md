@@ -61,16 +61,14 @@
 
 ## 🚀 Featured Projects
 
-### 🌦 [Weather Dashboard](https://github.com/devjadaun)
+### 🌦 [Weather Dashboard](https://github.com/devjadaun/weather-dashboard)
 Real-time weather with 5-day forecast, air quality index, temperature charts, and sunrise/sunset data. Fully responsive.
 
-### ✅ [Smart Task Manager](https://github.com/devjadaun)
+### ✅ [[Smart Task Manager](https://github.com/devjadaun/smart-task-manager)
 Create, edit, and delete tasks with local storage persistence and a clean, responsive UI.
 
-### ☕ [Java Learning Repository](https://github.com/devjadaun)
-OOP concepts, the Collections Framework, exception handling, file handling, and practice programs.
+### ☕ [DSA Repository](https://github.com/devjadaun/DSA)
 
-> Replace the links above with the actual repo URLs once you add them — right now they all point to your profile.
 
 <br/>
 
